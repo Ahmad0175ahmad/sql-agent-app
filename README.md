@@ -8,7 +8,7 @@ live url : https://sql-agent-app-ahmad.streamlit.app/
 ## ✨ Features
 - **Natural Language to SQL**: Powered by OpenAI/Gemini to generate precise queries.
 - **Interactive Editor**: Review and edit SQL before execution.
-- **Database Explorer**: Preview tables and download results as CSV.
+- **Database Explorer**: Preview tables and download results as CSV
 - **Modern UI**: Dark-themed, high-contrast interface
 
 ## 🛠️ Tech Stack
